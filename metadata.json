@@ -1,0 +1,8 @@
+{
+  "name": "SE Primer: Muhteşem Cuma Kriz Odası",
+  "description": "Muhteşem Cuma indirim patlamasında (00:00) çöken ödeme servisi krizini simüle eden; mimari, test ve KVKK/PCI-DSS kararlarını içeren Sokratik yapay zekalı mobil öncelikli kriz simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
