@@ -4,6 +4,7 @@
   <img width="30%" alt="Sonuç Analizi" src="./assets/Stitch3.png" />
   <h1>SE Primer — Muhteşem Cuma Kriz Odası</h1>
   <p><b>YZM301 Yazılım Gerçekleme ve Test · AI-DLC İnteraktif Eğitim Simülasyonu</b></p>
+  <p><a href="https://se-primer-muhte-em-cuma-kriz-odas.ai.studio/"><strong>🔴 CANLI DEMOYU AÇ →</strong></a></p>
 </div>
 
 ---
